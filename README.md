@@ -8,9 +8,9 @@
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3yevn&theme=midnight-purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3yevn&theme=dracula)
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m3yevn&theme=midnight-purple)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m3yevn&theme=midnight-purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m3yevn&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m3yevn&theme=dracula)
 
