@@ -1,5 +1,5 @@
 ####  ❤️ Hi there! I’m Kevin Moe Myint Myat, a passionate software developer
-<img src="https://github-readme-stats.vercel.app/api?username=m3yevn&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=m3yevn&show_icons=true&theme=dracula&include_all_commits=true" />
 
 
 #### 🍺 Check me out @ https://kevinmoemyintmyat.gitlab.io
