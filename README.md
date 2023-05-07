@@ -4,7 +4,7 @@
 
 #### ☕ Check me out @ https://kevinmoemyintmyat.gitlab.io
 
-<img width="600px" src="https://raw.githubusercontent.com/m3yevn/m3yevn/master/programming.svg" />
+<img width="600px" src="https://raw.githubusercontent.com/m3yevn/m3yevn/master/code_thinking.svg" />
 
 <br/>
 
