@@ -139,7 +139,27 @@ Kevin Myat Universe
 
 ## Live status
 
-*Last mirror update: June 2026*
+*HTTP verified: 2026-06-16 · [DEPLOYMENT_EVIDENCE](https://github.com/m3yevn/m3yevn/blob/master/docs/engineering-universe.md) in monorepo audit*
+
+### Verified live (production 200)
+
+| Product | URL | Evidence |
+|---------|-----|----------|
+| Kanbaneon | [kanbaneon.vercel.app](https://kanbaneon.vercel.app) | landing + `/docs` |
+| CIMA | [cima-flame.vercel.app/app/](https://cima-flame.vercel.app/app/) | `/api/items` returns demo data |
+| Solana Sentry | [solana-sentry.vercel.app](https://solana-sentry.vercel.app) | `/health` → `{"status":"ok"}` |
+| FTP Seer | [ftp-seer-client.vercel.app/demo](https://ftp-seer-client.vercel.app/demo) | 60s browse path |
+| Celestial Nexus | [kevmoemyintmyat.gitlab.io/nexus](https://kevmoemyintmyat.gitlab.io/nexus/) | universe index |
+| Ecosystem mirror | [kevinmoemyintmyat.vercel.app/ecosystem](https://kevinmoemyintmyat.vercel.app/ecosystem) | portfolio hub |
+
+### Broken (verified — not assumptions)
+
+| Product | URL | Status |
+|---------|-----|--------|
+| Megasoft shop | `/app/` | **404** |
+| Krescent play | `/play` | **404** |
+| PortokaLive API | portokalive-api.vercel.app | **404** |
+| Taxi Finder | taxi-finder-client.vercel.app | **404** |
 
 ### Currently reviving
 
@@ -161,7 +181,8 @@ Kevin Myat Universe
 | **AppRAG** | Transferred to [techlestial](https://github.com/techlestial/apprag) org |
 | **Celestial Nexus** | Universe index on engineering archive |
 | **FTP Seer** | Live client demo + API deploys |
-| **kevinmyat.com** | Mobile nav · Universe moved off professional site |
+| **Operation Show Don't Tell** | Fleet audit docs in personal monorepo |
+| **megasoft-market-bff** | GitHub **archived** — API in megasoft-market |
 
 ---
 
