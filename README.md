@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/hero-banner.png" alt="Kevin Myat — Engineering Universe" width="100%" />
-
-<br /><br />
-
 # Kevin Moe Myint Myat
 
 ### Builder · Architect · Product Engineer · Open Source Maintainer
