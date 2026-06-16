@@ -139,7 +139,7 @@ Kevin Myat Universe
 
 ## Live status
 
-*HTTP verified: 2026-06-16 · [DEPLOYMENT_EVIDENCE](https://github.com/m3yevn/m3yevn/blob/master/docs/engineering-universe.md) in monorepo audit*
+*HTTP verified: 2026-06-16 · Fleet audit: `VERCEL_INVENTORY.md`, `DEPLOYMENT_EVIDENCE.md` in monorepo*
 
 ### Verified live (production 200)
 
