@@ -8,7 +8,7 @@
 
 **Also known as:** `m3yevn` on [GitHub](https://github.com/m3yevn) · [npm](https://www.npmjs.com/~m3yevn) · [dev.to](https://dev.to/m3yevn) — canonical identity at [kevinmyat.com](https://kevinmyat.com).
 
-[Professional site](https://kevinmyat.com) · [LinkedIn — Kevin Moe Myint Myat](https://www.linkedin.com/in/kevinmoemyintmyat/) · [Engineering Universe](https://kevinmoemyintmyat.vercel.app/ecosystem) · [Journal](https://journal.kevinmyat.com)
+[Professional site](https://kevinmyat.com) · [LinkedIn — Kevin Moe Myint Myat](https://www.linkedin.com/in/kevinmoemyintmyat/) · [Engineering Universe](https://journal.kevinmyat.com/ecosystem) · [Journal](https://journal.kevinmyat.com)
 
 <br />
 
@@ -131,8 +131,8 @@ Kevin Myat Universe
 | **Professional advisory** | [kevinmyat.com](https://kevinmyat.com) |
 | **Engineering archive** | [kevmoemyintmyat.gitlab.io](https://kevmoemyintmyat.gitlab.io) |
 | **Celestial Nexus** | [kevmoemyintmyat.gitlab.io/nexus](https://kevmoemyintmyat.gitlab.io/nexus/) |
-| **Wellness portfolio** | [kevinmoemyintmyat.vercel.app](https://kevinmoemyintmyat.vercel.app) |
-| **Ecosystem hub** | [kevinmoemyintmyat.vercel.app/ecosystem](https://kevinmoemyintmyat.vercel.app/ecosystem) |
+| **Wellness portfolio** | [journal.kevinmyat.com](https://journal.kevinmyat.com) |
+| **Ecosystem hub** | [journal.kevinmyat.com/ecosystem](https://journal.kevinmyat.com/ecosystem) |
 | **Techlestial org** | [github.com/techlestial](https://github.com/techlestial) |
 | **PortokaLive org** | [github.com/PortokaLive](https://github.com/PortokaLive) |
 | **Deep dive** | [docs/engineering-universe.md](docs/engineering-universe.md) |
@@ -152,7 +152,7 @@ Kevin Myat Universe
 | Solana Sentry | [solana-sentry.vercel.app](https://solana-sentry.vercel.app) | `/health` → `{"status":"ok"}` |
 | FTP Seer | [ftp-seer-client.vercel.app/demo](https://ftp-seer-client.vercel.app/demo) | 60s browse path |
 | Celestial Nexus | [kevmoemyintmyat.gitlab.io/nexus](https://kevmoemyintmyat.gitlab.io/nexus/) | universe index |
-| Ecosystem mirror | [kevinmoemyintmyat.vercel.app/ecosystem](https://kevinmoemyintmyat.vercel.app/ecosystem) | portfolio hub |
+| Ecosystem mirror | [journal.kevinmyat.com/ecosystem](https://journal.kevinmyat.com/ecosystem) | portfolio hub |
 
 ### Broken (verified — not assumptions)
 
