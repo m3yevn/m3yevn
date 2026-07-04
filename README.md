@@ -6,7 +6,7 @@
 
 **AI Technology Advisor** designing intelligent systems, modern platforms, and AI-enabled products.
 
-[Professional site](https://kevinmyat.com) · [Engineering Universe](https://kevmoemyintmyat.gitlab.io/nexus/) · [Portfolio](https://kevinmoemyintmyat.vercel.app)
+[Professional site](https://kevinmyat.com) · [LinkedIn — Kevin Moe Myint Myat](https://www.linkedin.com/in/kevinmoemyintmyat/) · [Engineering Universe](https://kevmoemyintmyat.gitlab.io/nexus/) · [Journal](https://journal.kevinmyat.com)
 
 <br />
 
