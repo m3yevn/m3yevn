@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "outputDirectory": "public",
+  "framework": null,
+  "rewrites": [
+    { "source": "/games", "destination": "/index.html" }
+  ]
+}

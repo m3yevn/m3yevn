@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m3yevn.vercel.app/sitemap.xml

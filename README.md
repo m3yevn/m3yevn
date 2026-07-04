@@ -96,12 +96,34 @@ Repository **rebirth** initiative — every project gets a modern landing, `/doc
 | **Megasoft Market** | Parody B2B commerce demo | [Landing](https://megasoft-market.vercel.app) | [megasoft-market](https://github.com/m3yevn/megasoft-market) |
 | **Vizat** | HTML5 Canvas 2D scene-tree engine | [Playground](https://vizat.vercel.app) | [vizat](https://github.com/m3yevn/vizat) |
 | **AppRAG** | README & docs generator CLI | [Site](https://apprag.vercel.app) | [apprag](https://github.com/techlestial/apprag) |
-| **Krescent** | Moon buggy runner — Game Off 2020 | [Landing](https://krescent.vercel.app) | [krescent](https://github.com/Krescent-The-Game/krescent) |
+| **Krescent** | Moon buggy runner — Game Off 2020 | [Play](https://krescent.vercel.app/play/) | [krescent](https://github.com/Krescent-The-Game/krescent) |
+| **m3yevn Games ×10** | Browser mini-game constellation | [Hub](https://m3yevn.vercel.app) · [itch.io](https://m3yevn.itch.io) | [tarotune](https://github.com/m3yevn/tarotune) … |
 | **Express Instant** | JSON-configured Express APIs | [Docs](https://express-instant.vercel.app/docs) | [express-instant](https://github.com/m3yevn/express-instant) |
 | **Be A Buddhist** | Sacred audio PWA — routines & player | [App](https://beabuddhist.vercel.app/app/) | [beabuddhist](https://github.com/m3yevn/beabuddhist) |
 | **FTP Seer** | Web FTP browser + REST API pair | [Demo](https://ftp-seer-client.vercel.app/demo) | [client](https://github.com/m3yevn/ftp-seer-client) · [api](https://github.com/m3yevn/ftp-seer-api) |
 
 **Techlestial developer tools:** [Gitlestial](https://gitlestial.vercel.app) · [Loglestial](https://loglestial.vercel.app) · [Uilerial](https://uilerial.vercel.app) · [Studio hub](https://techlestial.vercel.app)
+
+---
+
+## Mini-game constellation
+
+Ten browser games + [Krescent](https://krescent.vercel.app) — play free, no download.
+
+**Hub:** [m3yevn.vercel.app](https://m3yevn.vercel.app) · **itch.io:** [m3yevn.itch.io](https://m3yevn.itch.io)
+
+| Game | Play |
+|------|------|
+| 🔮 Tarotune | [play](https://tarotune-two.vercel.app/play/) |
+| 🎨 Palettia | [play](https://palettia.vercel.app/play/) |
+| 🌙 Moonyomi | [play](https://moonyomi.vercel.app/play/) |
+| 💀 Grimbop | [play](https://grimbop.vercel.app/play/) |
+| 🍃 Sagehop | [play](https://sagehop.vercel.app/play/) |
+| 🌸 Kawaiwave | [play](https://kawaiwave.vercel.app/play/) |
+| ✒️ Inkspire | [play](https://inkspire-kappa.vercel.app/play/) |
+| 🌑 Voidmote | [play](https://voidmote.vercel.app/play/) |
+| 🃏 Jesteria | [play](https://jesteria.vercel.app/play/) |
+| ⏳ Chronacle | [play](https://chronacle-sandy.vercel.app/play/) |
 
 ---
 
@@ -121,6 +143,7 @@ Kevin Myat Universe
 ├── AppRAG           → docs & README CLI
 ├── Vizat            → canvas 2D engine
 ├── Krescent         → WebGL game (Game Off 2020)
+├── m3yevn Games     → 10 browser mini-games + constellation hub
 ├── Kanbaneon        → productivity canvas board
 ├── Express Instant  → low-code Express template
 └── Future Projects  → rebirth queue
