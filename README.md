@@ -6,7 +6,9 @@
 
 **AI Technology Advisor** designing intelligent systems, modern platforms, and AI-enabled products.
 
-[Professional site](https://kevinmyat.com) · [LinkedIn — Kevin Moe Myint Myat](https://www.linkedin.com/in/kevinmoemyintmyat/) · [Engineering Universe](https://kevmoemyintmyat.gitlab.io/nexus/) · [Journal](https://journal.kevinmyat.com)
+**Also known as:** `m3yevn` on [GitHub](https://github.com/m3yevn) · [npm](https://www.npmjs.com/~m3yevn) · [dev.to](https://dev.to/m3yevn) — canonical identity at [kevinmyat.com](https://kevinmyat.com).
+
+[Professional site](https://kevinmyat.com) · [LinkedIn — Kevin Moe Myint Myat](https://www.linkedin.com/in/kevinmoemyintmyat/) · [Engineering Universe](https://kevinmoemyintmyat.vercel.app/ecosystem) · [Journal](https://journal.kevinmyat.com)
 
 <br />
 
@@ -20,7 +22,7 @@
 
 | Question | Answer |
 |----------|--------|
-| **Who** | Kevin Myat — full-stack architect, product engineer, maintainer since 2016 |
+| **Who** | **Kevin Moe Myint Myat** (Kevin Myat) — full-stack architect; GitHub/npm alias `m3yevn` |
 | **What** | Flagship apps, developer tools, streaming, games, and AI-era modernization |
 | **Active now** | Kanbaneon, CIMA, Solana Sentry, Techlestial libs, PortokaLive, Express Instant |
 | **Explore** | [Celestial Nexus](https://kevmoemyintmyat.gitlab.io/nexus/) — live products & demos |
@@ -201,7 +203,7 @@ Kevin Myat Universe
 
 <div align="center">
 
-**[kevinmyat.com](https://kevinmyat.com)** · **[LinkedIn](https://www.linkedin.com/in/kevinmoemyintmyat/)** · **[GitLab archive](https://kevmoemyintmyat.gitlab.io)**
+**[kevinmyat.com](https://kevinmyat.com)** · **[Kevin Moe Myint Myat on LinkedIn](https://www.linkedin.com/in/kevinmoemyintmyat/)** · **[Journal](https://journal.kevinmyat.com)** · **[GitLab archive](https://kevmoemyintmyat.gitlab.io)**
 
 <br />
 
