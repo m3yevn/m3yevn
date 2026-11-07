@@ -14,8 +14,8 @@
 | Professional | [kevinmyat.com](https://kevinmyat.com) | AI advisory & architecture — no product universe |
 | Engineering archive | [kevmoemyintmyat.gitlab.io](https://kevmoemyintmyat.gitlab.io) | Shipped systems, technical writing 2016–2025 |
 | Celestial Nexus | [kevmoemyintmyat.gitlab.io/nexus](https://kevmoemyintmyat.gitlab.io/nexus/) | Revived products index |
-| Wellness portfolio | [kevinmoemyintmyat.vercel.app](https://kevinmoemyintmyat.vercel.app) | Astro journal & personal brand |
-| Ecosystem hub | [kevinmoemyintmyat.vercel.app/ecosystem](https://kevinmoemyintmyat.vercel.app/ecosystem) | Vercel mirror of Nexus |
+| Wellness portfolio | [journal.kevinmyat.com](https://journal.kevinmyat.com) | Astro journal & personal brand |
+| Ecosystem hub | [journal.kevinmyat.com/ecosystem](https://journal.kevinmyat.com/ecosystem) | Vercel mirror of Nexus |
 
 ---
 
@@ -55,13 +55,9 @@ Kevin Myat Universe
 
 ## Rebirth initiatives
 
-### Eternal Flame
+### Eternal Flame — retired
 
-Every repository follows the infinity loop:
-
-`AUDIT → REBIRTH → BOY SCOUT → SHIP → MONITOR`
-
-Minimum ship bar: static landing · `/docs` · CI · Vercel deploy · README quick start.
+The infinity-loop rebirth program is closed. Repositories are maintained as products, not as a wave.
 
 ### Tree of Life
 
@@ -105,7 +101,7 @@ Update `README.md` when:
 
 - A product ships a new landing or major release
 - An org transfer completes (e.g. apprag → techlestial)
-- Rebirth wave status changes (reviving → recently reborn)
+- A studio or product moves (new org, new canonical URL)
 - Site topology shifts (Nexus URL, professional vs archive split)
 
 Assets in `assets/` should be regenerated when the ecosystem structure materially changes.
