@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.png" alt="Crescent moon in a gold constellation" width="100%" />
+<img src="assets/hero-banner.png" alt="Crescent moon in a gold constellation" height="200px" />
 
 <br />
 
