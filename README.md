@@ -1,12 +1,7 @@
 <div align="center">
-
-<img src="assets/hero-banner.png" alt="Crescent moon in a gold constellation" width="100%" />
-
 <br />
 
 # Kevin Moe Myint Myat
-
-### I'm back.
 
 Application architect in Singapore.  
 Platforms, developer tools, and products that stay up.
@@ -14,14 +9,6 @@ Platforms, developer tools, and products that stay up.
 [LinkedIn](https://www.linkedin.com/in/kevinmoemyintmyat/) · [npm](https://www.npmjs.com/~m3yevn) · [Techlestial](https://techlestial.vercel.app)
 
 </div>
-
----
-
-The profile went quiet. The work did not.
-
-This page is the front door again — flagship products, open-source tools, and the studios behind them.
-
----
 
 ## The work
 
