@@ -9,7 +9,6 @@ Platforms, developer tools, and products that stay up.
 [LinkedIn](https://www.linkedin.com/in/kevinmoemyintmyat/) · [npm](https://www.npmjs.com/~m3yevn) · [Techlestial](https://techlestial.vercel.app)
 
 </div>
----
 
 ## The work
 
